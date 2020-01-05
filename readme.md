@@ -1,5 +1,8 @@
 # Note
 
+## Free License template
+- https://themeforest.net/free/wordpress-themes
+
 ## Plugin
 ```
 Cache - WP Super Cache -  แคชหน้าต่าง ๆ ของ WordPress ไว้ ทำให้โหลดเว็บไซต์ได้เร็วขึ้นหลายเท่า
